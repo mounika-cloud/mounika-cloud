@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 - 🔭 I’m currently working on machine learning projects.
 - 🌱 I’m currently learning best advanced level machine learning
 - 👯 I’m looking to collaborate on AI or ML project.
@@ -22,3 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <linkedin_URL>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Data Transformation is the hardest part of ML work
+-->
+- I’m a Data Analytics Engineering graduate student at George Mason University, where I turn complex problems into exciting opportunities.
+- Armed with a passion for innovation and a knack for critical thinking, I bring a fresh perspective to every project. Whether it's leading teams to unlock hidden insights or embracing the power of data to drive change, I thrive on tackling challenges head-on.
+- My expertise spans Machine Learning, Data Science, and Generative AI—fields where I’m constantly pushing the boundaries to transform abstract ideas into tangible, game-changing solutions. For me, data isn’t just numbers; it’s a story waiting to be told, and I’m here to help write it.

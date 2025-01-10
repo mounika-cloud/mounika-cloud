@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Web devlopment.
 - 💬 Ask me about Machine Learning, SQL, Tabeau, Opencv
 - 📫 How to reach me: <linkedin_URL>
-- 😄 Pronouns: Up for anything
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Data Transformation is the hardest part of ML work
